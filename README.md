@@ -5,11 +5,11 @@
 ---
 → Call me Ren<br>
 → Chembio fan number one<br>
-→ Not a coder tbh<br>
-→ Artist, fifty-fifty spriter<br>
+→ Noob coder<br>
+→ Concept-artist, illustrator, spriter<br>
 → BB-Code guru<br>
-→ Know a little HTML&CSS<br>
-→ Trying to learn C#<br>
+→ Know a little HTML & CSS<br>
+→ Trying to learn C# & Java<br>
 
 [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/502891268385406986)
 
